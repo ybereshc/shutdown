@@ -20,7 +20,7 @@
   "homepage": "https://github.com/ybereshc/shutdown#readme",
   "description": "Shutdown Timer",
   "dependencies": {
-    "electron": "^7.1.5"
+    "electron": "^13.6.6"
   },
   "devDependencies": {
     "electron-packager": "^14.1.1"
